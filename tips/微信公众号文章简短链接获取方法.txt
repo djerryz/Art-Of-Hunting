@@ -1,0 +1,3 @@
+https://developers.weixin.qq.com/community/develop/doc/0002ec58694f08a9514b9b1db58400
+
+/s/类型链接访问可以转biz ，但是反向的，访问biz类型链接，通过抓整个过程的包无法获得/s/类型， 目前只能手工进入文章复制出来
