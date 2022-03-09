@@ -76,7 +76,13 @@
 
 - 🛡   <a href="https://mp.weixin.qq.com/s/5cv9KSRHUhsHxC7Yik1Rig" target="_blank">[AOH 011]ClashForWindows RCE链 深析                                               </a>
 
-  * Djerryz | 2023/03/08
+  * Djerryz | 2022/03/08
+  
+- 🛡   <a href="https://mp.weixin.qq.com/s/KbOXR5tERn3QNWWssk2Pfw" target="_blank">[AOH 012]\[0day]我家的猫是内鬼     </a>
+
+  * Djerryz | 2022/03/09
+
+
 
 
 
