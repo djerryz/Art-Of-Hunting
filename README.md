@@ -81,8 +81,14 @@
 - 🛡   <a href="https://mp.weixin.qq.com/s/KbOXR5tERn3QNWWssk2Pfw" target="_blank">[AOH 012]\[0day]我家的猫是内鬼     </a>
 
   * Djerryz | 2022/03/09
+  
+- 🛡   <a href="https://mp.weixin.qq.com/s/92P3u7Eg9pDx-LVYQ9ejUg" target="_blank">[AOH 013]破解商用级py加密混淆    </a>
 
+  * Djerryz | 2022/04/26
 
+- 🛡   <a href="https://mp.weixin.qq.com/s/4-3Ind7Z-lnsYgc0wN8NxQ" target="_blank">[AOH 014]Penzip-为渗透而生的压缩工具</a>
+
+  * Djerryz | 2022/06/30
 
 
 
