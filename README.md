@@ -89,6 +89,14 @@
 - 🛡   <a href="https://mp.weixin.qq.com/s/4-3Ind7Z-lnsYgc0wN8NxQ" target="_blank">[AOH 014]Penzip-为渗透而生的压缩工具</a>
 
   * Djerryz | 2022/06/30
+  
+- 🛡   <a href="https://mp.weixin.qq.com/s/IDjo7q39axGEafxFN0e-TA" target="_blank">[AOH 015]Burpsuite下的视觉欺骗</a>
+
+  * Djerryz | 2022/08/01
+  
+- AOH 16 微信聊天数据备份的有效姿势
+
+- AOH 17 通过BPF抓取APP程序明文数据
 
 
 

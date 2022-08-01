@@ -13,14 +13,18 @@ def upload_file():
     f = request.files['file']
     upload_ = f.read()
     upload_header = upload_[:8]
+    content_ = ""
     if upload_header != b'\x89PNG\r\n\x1a\n':
-        return "上传失败"
+        content_ =  "上传失败"
     else:
         if f.filename[:-4] == ".php":
-            return "flag{牛逼}"
+            content_ =  "flag{牛逼}"
         else:
-            return "上传成功"
-
+            content_ = "上传成功"
+    r = Response(response=content_, status=200)
+    r.headers["Content-Type"] = "text/html; charset=gbk"
+    return r
+    
 @app.route('/upload_checker', methods = ['POST'])
 def upload_checker():
     f = request.files['file']
