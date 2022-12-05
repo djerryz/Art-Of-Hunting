@@ -90,6 +90,13 @@
 - 🛡   <a href="https://mp.weixin.qq.com/s/LfjOqtlYTDwoCYF33nTfxw" target="_blank" rel="noopener">[AOH 016]羊了个羊v2-算法分析          </a>
 
   * Djerryz | 2022/09/20
+  
+- 🛡   <a href="https://mp.weixin.qq.com/s/iolYdCb9GX44HJD4inkuQA" target="_blank" rel="noopener">[AOH 017] 当我尝试半价预定特斯拉汽车 </a>
+
+  - <a href="https://mp.weixin.qq.com/s/liKR1eBwINpNI9Gp3zWxmg" target="_blank" rel="noopener">[AOH 017] When I tried to book Tesla cars at half price </a>
+  - Djerryz | 2022/12/04
+
+  
 
 
 
