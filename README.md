@@ -100,9 +100,14 @@
   
   - Djerryz | 2023/01/17
   
-- 🛡   <a href="" target="_blank" rel="noopener">[AOH 019]PC微信本地数据库密钥算法分析 (即将到来) </a>
+- 🛡   <a href="https://mp.weixin.qq.com/s/u0ZrxBYN-Shg2_e8mGIoaQ" target="_blank" rel="noopener">[AOH 019]逆向分析微信本地数据库加密          </a>
 
-  - Djerryz | 2023/01/30
+  - Djerryz | 2023/03/01
+
+- 🛡   <a href="https://mp.weixin.qq.com/s/zFlVhzD88osVJcXzId21Lw" target="_blank" rel="noopener">[AOH 020]使用ChatGPT接管twitter账户                    </a>
+
+  - Djerryz | 2023/03/13
+  
 
 
 
