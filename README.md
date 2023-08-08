@@ -108,8 +108,21 @@
 
   - Djerryz | 2023/03/13
   
+- 🛡   <a href="https://mp.weixin.qq.com/s/qLSaEjfYdayAx-URFEpNxw" target="_blank" rel="noopener">[AOH 021]登陆联合国安全名人堂                              </a>
 
+  - Djerryz | 2023/03/31
 
+- 🛡   <a href="https://mp.weixin.qq.com/s/R-NJIm5hlHB94oow7L5jSA" target="_blank" rel="noopener">[AOH 022]微信小程序自动化提取与扫描实践                             </a>
+
+  - Djerryz | 2023/04/07
+
+- 🛡   <a href="https://mp.weixin.qq.com/s/Ykq6oNc3W9NC9-IPlIP3zw" target="_blank" rel="noopener">[AOH 023]记于阿里live hacking上收获10000赏金                             </a>
+
+  - Djerryz | 2023/05/04
+
+- 🛡   <a href="https://mp.weixin.qq.com/s/yxdzMyLq4uvSw5kL04mXqA" target="_blank" rel="noopener">[AOH 024]探索将Shell寄生于Electron程序的自动化实现                             </a>
+
+  - Djerryz | 2023/08/09
 
 
 
