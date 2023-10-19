@@ -123,6 +123,12 @@
 - 🛡   <a href="https://mp.weixin.qq.com/s/yxdzMyLq4uvSw5kL04mXqA" target="_blank" rel="noopener">[AOH 024]探索将Shell寄生于Electron程序的自动化实现                             </a>
 
   - Djerryz | 2023/08/09
+  
+- 🛡   <a href="https://mp.weixin.qq.com/s/yWUruZ8xhAnbHeJrsWWS6g" target="_blank" rel="noopener">[AOH 025]\[0day\]dedecms任意Cookie伪造                               </a> 
 
+  - Djerryz | 2023/09/28
 
+- 🛡   <a href="https://mp.weixin.qq.com/s/m2Z4cXoo6ltdopSSFVqNkQ" target="_blank" rel="noopener">[AOH 026]\[1day\]XSS全站用户?篡改厂商首页JS文件实战                              </a>
+
+  - Djerryz | 2023/10/19
 
